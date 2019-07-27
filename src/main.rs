@@ -14,6 +14,7 @@ use bytes::Bytes;
 use futures::unsync::mpsc;
 use futures::{future::ok, Future, Stream};
 
+
 /// favicon handler
 #[get("/favicon")]
 fn favicon() -> Result<fs::NamedFile> {
