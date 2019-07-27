@@ -1,22 +1,65 @@
-# basics
+# Javascript love Rust
 
-## Usage
+<div align='center'>
 
-### server
+![js_logo](./doc/javascript.svg)
+![js_logo](./doc/love.svg)
+![js_logo](./doc/rust.svg)
 
-```bash
-cd examples/basics
-cargo run
-# Started http server: 127.0.0.1:8080
-```
+</div>
+
+<div align='center'>
+
+![js_logo](./doc/rust.svg)
+![js_logo](./doc/love.svg)
+![js_logo](./doc/golang.svg)
+
+</div>
+
+<div align='center'>
+
+![js_logo](./doc/golang.svg)
+![js_logo](./doc/love.svg)
+![js_logo](./doc/php.svg)
+
+</div>
+<div align='center'>
+
+![js_logo](./doc/php.svg)
+![js_logo](./doc/love.svg)
+![js_logo](./doc/python.svg)
+
+</div>
+<div align='center'>
+
+![js_logo](./doc/python.svg)
+![js_logo](./doc/love.svg)
+![js_logo](./doc/java.svg)
+
+</div>
+
+<div align='center'>
+
+![js_logo](./doc/java.svg)
+![js_logo](./doc/love.svg)
+![js_logo](./doc/javascript.svg)
+
+</div>
+
+<div align='center'>
+
+![js_logo](./doc/javascript.svg)
+![js_logo](./doc/love.svg)
+![js_logo](./doc/javascript.svg)
+
+</div>
+
+<div align='center'>
+
+# **So javascript is the best language in the world**
+
+</div>
 
 ### web client
 
 - [http://localhost:8080/](http://localhost:8080/static/index.html)
-- [http://localhost:8080/async/bob](http://localhost:8080/async/bob)
-- [http://localhost:8080/user/bob/](http://localhost:8080/user/bob/) text/plain download
-- [http://localhost:8080/test](http://localhost:8080/test) (return status switch GET or POST or other)
-- [http://localhost:8080/favicon](http://localhost:8080/static/favicon.htmicol)
-- [http://localhost:8080/welcome](http://localhost:8080/static/welcome.html)
-- [http://localhost:8080/notexit](http://localhost:8080/static/404.html) display 404 page
-- [http://localhost:8080/error](http://localhost:8080/error) Panic after request 
